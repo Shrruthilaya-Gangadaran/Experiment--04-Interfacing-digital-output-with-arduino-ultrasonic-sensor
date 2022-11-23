@@ -94,6 +94,11 @@ void loop()
 
 ### SERIAL MONITOR:
 ![](serialmonitor.PNG)
+### TABLE:
+![](table.png)
+Average error = sum / number of readings
+
+Average Error = 0.48
 
 ## RESULT:
 Thus,the distance value is measured in "CM" using ultrasonic sensor.
